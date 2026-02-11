@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Patil</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI | Python | SQL | ML Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | Power BI | Python | SQL | AI & ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sidd-patil987&label=Profile%20views&color=0e75b6&style=flat" />
@@ -8,18 +8,50 @@
 ---
 
 ## 👨‍💻 About Me
-- 📊 Aspiring **Data Analyst / Data Scientist**
-- 🐍 Strong in **Python, SQL, Power BI, Excel**
-- 📈 Experienced in **Data Analysis, Visualization & Machine Learning**
-- 🧠 Built real-world projects in **Fraud Detection, Emotion Detection, E-commerce Analysis**
-- 🌱 Currently learning **Advanced SQL, DAX & ML models**
-- 🎯 Career goal: Turn data into **actionable insights**
+- 📊 Aspiring **Data Analyst / Data Scientist** with hands-on project experience  
+- 🐍 Strong foundation in **Python, SQL, Power BI, Excel**  
+- 🤖 Experienced in **Machine Learning, Deep Learning (CNN), NLP**  
+- 👁️ Worked on **Computer Vision** and **Document AI–based solutions**  
+- 📈 Passionate about transforming raw data into **actionable business insights**
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧠 Skills & Expertise
+
+### 🔹 Programming
+- **Python**
+
+### 🔹 Libraries & Frameworks
+- **NumPy, Pandas, Scikit-learn**
+- **Matplotlib**
+- **TensorFlow**
+
+### 🔹 AI / Machine Learning
+- Machine Learning  
+- Deep Learning (**CNN**)  
+- Natural Language Processing (**NLP**)  
+- Model Training, Evaluation & Optimization  
+
+### 🔹 Cloud & AI Tools
+- **Azure AI Services** (Vision, Speech, Bot Service)  
+- **Jupyter Notebook**
+
+### 🔹 Data Tools
+- **SQL Server**
+- **Power BI**
+- **Microsoft Excel**
+
+### 🔹 Core Concepts
+- Data Analysis & Visualization  
+- Computer Vision  
+- Document AI  
+- Exploratory Data Analysis (EDA)  
+
+---
+
+## 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,azure" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,azure" />
 </p>
 
 <p align="left">
@@ -28,18 +60,19 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
-🔹 **Flipkart E-Commerce Data Analysis**  
-🔹 **Credit Card Fraud Detection (ML)**  
-🔹 **Emotion Detection from Face using Deep Learning**  
+🔹 **Flipkart E-Commerce Data Analysis (Power BI + Python)**  
+🔹 **Credit Card Fraud Detection (Machine Learning)**  
+🔹 **Emotion Detection from Face using Deep Learning (CNN)**  
 🔹 **Employee Payroll Management System (SQL Server)**  
 🔹 **Expense Tracker (Python + SQL)**  
 
-➡️ *All projects available on my GitHub repositories*
+➡️ *Complete project source code, dashboards, and documentation available on my GitHub.*
 
 ---
 
